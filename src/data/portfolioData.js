@@ -88,54 +88,6 @@ export const projectsData = [
       "Senior-Junior Mentorship Hub: Verified alumni directory with 1-on-1 guidance booking & instant Google Meet links",
       "Student Life Forum: Interactive polls with animated voting telemetry and categorized society boards"
     ]
-  },
-  {
-    id: "devpulse-ai",
-    title: "DevPulse AI",
-    badge: "AI Powered",
-    tagline: "Intelligent Codebase Analytics & Automated PR Review Engine",
-    description: "An AI-enhanced developer dashboard that monitors git commit velocity, flags potential code smells before merging, and provides automated, context-aware suggestions for refactoring.",
-    tags: ["React", "TypeScript", "Tailwind CSS", "Node.js", "Gemini API", "REST APIs"],
-    liveUrl: "https://github.com/aryansachan630",
-    githubUrl: "https://github.com/aryansachan630",
-    featured: true,
-    highlights: [
-      "Automated pull request code review summaries generated in seconds using LLM reasoning",
-      "Interactive code velocity graphs & contributor activity breakdown",
-      "Modular, responsive dashboard design with custom dark theme telemetry"
-    ]
-  },
-  {
-    id: "cloudsync",
-    title: "CloudSync",
-    badge: "Real-time Collaboration",
-    tagline: "Multiplayer Collaborative Engineering Specs & Technical Canvas",
-    description: "A low-latency workspace for engineering teams to brainstorm, draft system architecture specifications, and share markdown documentation in real-time.",
-    tags: ["React", "WebSockets", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-    liveUrl: "https://github.com/aryansachan630",
-    githubUrl: "https://github.com/aryansachan630",
-    featured: false,
-    highlights: [
-      "Sub-50ms conflict-free collaborative editing engine with live cursor indicators",
-      "Dual-pane split markdown editor with immediate live rendering & syntax highlighting",
-      "Instant export options to PDF, Markdown, and cloud snapshots"
-    ]
-  },
-  {
-    id: "algoplayground",
-    title: "AlgoPlayground",
-    badge: "Interactive Tool",
-    tagline: "Interactive Data Structures & Algorithm Visualizer",
-    description: "A high-performance algorithmic simulation suite designed to visualize sorting algorithms, graph pathfinding (Dijkstra, BFS, DFS), and tree traversals with granular playback control.",
-    tags: ["React", "JavaScript (ES6)", "Algorithms", "Tailwind CSS", "Canvas API"],
-    liveUrl: "https://github.com/aryansachan630",
-    githubUrl: "https://github.com/aryansachan630",
-    featured: false,
-    highlights: [
-      "Frame-by-frame step forward / rewind controls with adjustable execution speed",
-      "Real-time recursion call-stack visualizer and array bar telemetry",
-      "Comprehensive Big-O complexity cheat-sheet and practical scenario guides"
-    ]
   }
 ];
 
